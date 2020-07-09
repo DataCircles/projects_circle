@@ -17,7 +17,7 @@ Output 3. Recommend changes to improve dangerous intersections based on similari
 
 Each team will have their own GitHub repository within the projects_circle repository:  
 
-__[Data Visualization Team Repository](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_viz_project)__  
+__[Data Visualization Team Repository](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_viz_team)__  
 
 __Machine Learning Team 1 Repository - TBD__  
 
@@ -48,5 +48,7 @@ c. what additional data is needed to answer the business problem(s)
 #### Milestone(s)
 1. Deliver the data report. Report should be in each team's repository by 6 p.m. on Wednesday, July 22nd.  
 
-
+<br>
 Additional information will be provided shortly.   
+
+
