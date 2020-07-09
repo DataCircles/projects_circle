@@ -17,7 +17,7 @@ Output 3. Recommend changes to improve dangerous intersections based on similari
 
 Each team will have their own GitHub repository within the projects_circle repository:  
 
-__[Data Visualization Team Repository](https://github.com/DataCircles/projects_circle/traffic_collisions_viz_project)__  
+__[Data Visualization Team Repository](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_viz_project)__  
 
 __Machine Learning Team 1 Repository - TBD__  
 
