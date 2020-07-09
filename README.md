@@ -14,6 +14,15 @@ Houda Aynaou
 Niwako Sugimura  
 Sowmya Vasan
 
-## Current Project: Traffic Collision Data Project (7/8/20 - 8/26/20)
+## Current Work
 
-The Projects Circle is currently supporting three data science teams while they analyze Seattle area traffic collision data. [Project materials](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_project)  
+### Traffic Collision Data Project (7/8/20 - 8/26/20)
+The Projects Circle is currently supporting three data science teams while they analyze Seattle area traffic collision data.  
+Additional information can be found in the [traffic_collisions_project](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_project) directory  
+
+## Prior Work
+
+### WiDS Datathon 2020
+The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. The WiDS Datathon was a collaboration led by the Global WiDS team at Stanford, the West Big Data Innovation Hub, and the WiDS Datathon committee. The WiDS Datathon 2020 focused on patient health, analyzing data from MIT’s [GOSSIS (Global Open Source Severity of Illness Score)](https://gossis.mit.edu/) initiative.  
+The Projects Circle supported the datathon teams from the Seattle region by organizing teams, providing mentors and presenting workshops.  
+Additional information about the national datathon is available on the [WiDS site](https://www.widsconference.org/datathon.html) and the [Kaggle competition site](https://www.kaggle.com/c/widsdatathon2020/leaderboard#score)  
