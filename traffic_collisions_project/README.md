@@ -2,7 +2,7 @@
 
 This six week project analyzes the Seattle area traffic collision data collected by the Seattle Dept. of Transportation (SDOT) over the period, 2004 - 2020.  
 
-This repository contains general project documentation, [workshop materials](https://github.com/DataCircles/projects_circle/traffic_collisions_project/workshop_materials), and other resources for the teams working on the Traffic Collisions Project. The teams focus on different business questions and will deliver different data science products. Each team falls under one of two tracks:  
+This repository contains general project documentation, [workshop materials](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_project/workshop_materials), and other resources for the teams working on the Traffic Collisions Project. The teams focus on different business questions and will deliver different data science products. Each team falls under one of two tracks:  
 
 __1. Data Visualization Emphasis Track__  
 Input: geolocation data on collisions, road conditions, weather conditions  
