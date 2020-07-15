@@ -12,6 +12,12 @@ Hua Yang, posted on Feb 5, 2018, project objectives:
 
 The final [Shiny app visualization](https://yanghua23.shinyapps.io/shinyapp_NYC_Motor_Vehicle_Collision) can show a heat map (collision data point intensity), a cluster map (clustered collision data), and lethal collision markers (with detailed collision information pop-up) all at the same time. The user has highly flexible control on what portion of data he/she'd like to see, what year, borough, month range, and for what types of victims (pedestrians, cyclists, motorists) and what severity (no hurt, injured, lethal).  
 
+#### [French Traffic Data Visualization](https://github.com/maelfabien/DataVisualization)  
+This project analyzes road traffic accidents from the [French Database](https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation) and produced a currently suspended web visualization using Python, D3.js and Flask. They expected the end users to use the tool to:  
+- Sensitize the youngsters and road criminals on the danger of the roads depending on the transportation mode they are using.
+- Prevent road dangers through a tool that would allow the user to explore the accident rate based on the characteristics of the roads, and allow them to select the best road features during a road rehabilitation, or when building a new road for example
+- Monitor the dangers of the roads (at difference scales, including Communes, Departments and Nation) by allowing the user to select geographic zones and filters (weather conditions, hour of the day…) to gain additional insights  
+
 ## Machine Learning
 
 #### [A comparative study on machine learning based algorithms for prediction of motorcycle crash severity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6448880)  
