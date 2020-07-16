@@ -19,9 +19,11 @@ Each team will have their own GitHub repository within the projects_circle repos
 
 __[Data Visualization Team Repository](https://github.com/DataCircles/traffic_collisions_viz_team)__  
 
-__Machine Learning Team 1 Repository - TBD__  
+__[Machine Learning Team 1 Repository](https://github.com/DataCircles/traffic_collisions_ml_team1)__  
 
-__Machine Learning Team 2 Repository - TBD__  
+__[Machine Learning Team 2 Repository](https://github.com/DataCircles/traffic_collisions_ml_team2)__  
+
+__[Machine Learning Team 3 Repository](https://github.com/DataCircles/traffic_collisions_ml_team3)__  
 
 ## Project Tasks and Milestones
 
