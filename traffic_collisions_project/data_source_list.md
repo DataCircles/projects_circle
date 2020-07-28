@@ -181,10 +181,17 @@ The following existing geographies were reviewed during this effort:
 - and various other geographic information sources related to neighborhood areas and common place names.  
 This is not an attempt to identify neighborhood boundaries as defined by neighborhoods themselves.  
 
+#### [King County Metro Neighborhoods](https://gis-kingcounty.opendata.arcgis.com/datasets/metro-neighborhoods-in-king-county-neighborhood-area/data)
+shapefile or CSV file with 350 neighborhoods across King County, the Seattle neighborhoods are different from the CRA neighborhoods  
+
 #### [Seattle City Limits](http://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-city-limits)
 [CSV file](https://opendata.arcgis.com/datasets/648c2d358afb48b3b95130a5a95405be_0.csv)  
 [Shapefile](https://opendata.arcgis.com/datasets/648c2d358afb48b3b95130a5a95405be_0.zip)  
 City of Seattle municipal boundaries. Includes northerly and southerly boundaries for the city. The easterly and westerly boundaries of the city are defined by waterbodies.  
+
+#### [City Boundaries within King County](http://data-seattlecitygis.opendata.arcgis.com/datasets/municipal-boundaries)
+[shapefile link](https://opendata.arcgis.com/datasets/d508083ebd7d444b9997639af845937d_1.zip)  
+A polygon feature class showing the 19 different cities and unincorporated areas of King County surrounding the City of Seattle.  Does not show full extent cities on the east.  
 
 #### [Washington State City Limits](http://gisdata-wsdot.opendata.arcgis.com/datasets/wsdot-city-limits)
 [shapefile link](https://opendata.arcgis.com/datasets/0b12f000a66f4d75a43ea3ac4ead01dc_1.zip)  
