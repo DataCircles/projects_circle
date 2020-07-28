@@ -4,20 +4,31 @@
 
 ## Traffic Data
 
-#### [High Impact Areas](http://data-seattlecitygis.opendata.arcgis.com/datasets/high-impact-areas)  
+#### [High Impact Areas in Seattle](http://data-seattlecitygis.opendata.arcgis.com/datasets/high-impact-areas)  
 [csv link](https://opendata.arcgis.com/datasets/8c267378731b49a1923233282f81a3c2_0.csv)  
 [shapefile link](https://opendata.arcgis.com/datasets/8c267378731b49a1923233282f81a3c2_0.zip)  
 
 Provides a visual representation of areas that are of heightened concern for SDOT Street Use, whether because of intense development and construction activity, increased scrutiny, increased safety concerns, or other reason. Enables SDOT to closely manage areas in which large or complex uses of public right of way are occurring. See [attribute information](https://drive.google.com/open?id=1dKqQhXR9nB6ksMKs6TxyKrXpSKrePLoo)  
 
-#### [Street Network Database (SND)](http://data-seattlecitygis.opendata.arcgis.com/datasets/street-network-database-snd?showData=true)  
+#### [Washington State Dept. of Transportation (WSDOT) Datasets](http://gisdata-wsdot.opendata.arcgis.com)
+Including data like this:  
+>
+>__[Washington National Highway Roads](http://gisdata-wsdot.opendata.arcgis.com/datasets/wsdot-national-highway-system-for-non-state-routes)__  
+>WSDOT - National Highway System for Non-State Routes contains about 1,811 records  
+
+>__[Washington Statewide Local Roads](http://gisdata-wsdot.opendata.arcgis.com/datasets/wsdot-local-agency-public-road-lines)__  
+WSDOT - Local Agency Public Road Lines contains about 156,928 records  
+[shapefile link](https://opendata.arcgis.com/datasets/d11b7423108b49d19fd141ebccd4d803_10.zip)  
+This dataset contains Local Agency Public Roads such as county roads and city streets. Additionally there are some private roads that have been included for networking purposes. Refer to the Federal Functional Class (FFC) field and metadata description for these code values.  
+
+#### [Seattle Street Network Database (SND)](http://data-seattlecitygis.opendata.arcgis.com/datasets/street-network-database-snd?showData=true)  
 [CSV file](https://opendata.arcgis.com/datasets/8c267378731b49a1923233282f81a3c2_0.csv)  
 [shapefile link](https://opendata.arcgis.com/datasets/0dd0ad79dc3845f3a296215d7c448a0d_2.zip)  
 
 About 34,179 records decribing the physical, land based, improved, travel pathway infrastructure and associated theoretical address ranges. The pathway representation consists of Segments and Intersection elements. A Segment is a linear graphic element that represents a continuous physical travel path terminated by path end (dead end) or physical intersection with other travel paths. Segments have one street name, one address range and one set of segment characteristics. A Segment may have none or multiple alias street names.  
 Segment types included are Freeways, Highways, Streets, Alleys (named only), Railroads, Walkways, and Bike lanes. SNDSEG is a linear feature class representing the SND Segment Feature, with attributes for Street name, Address Range, Alias Street name and segment Characteristics objects. Part of the Address Range and all of Street name objects are logically shared with the Discrete Address Point-Master Address File layer.  
 
-#### [Traffic Lanes](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-lanes) 
+#### [Seattle Traffic Lanes](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-lanes) 
 About 40,847 records describing the location and appearance of traffic lanes. See [attribute information](https://drive.google.com/open?id=1TyNCYeUERz5-nUwt_lrV1Pz_yTbmZLP2)  
 Includes the attribute `LANETYPE` which encodes these values:   
 ```
@@ -64,12 +75,12 @@ TRTSHRW = Thru Right Turn Lane w/ Sharrow
 TSHRW = Travel Lane w/ Sharrow
 ```  
 
-#### [2018 Traffic Flow Counts](http://data-seattlecitygis.opendata.arcgis.com/datasets/2018-traffic-flow-counts)  
+#### [Seattle 2018 Traffic Flow Counts](http://data-seattlecitygis.opendata.arcgis.com/datasets/2018-traffic-flow-counts)  
 [CSV file](https://opendata.arcgis.com/datasets/a35aa9249110472ba2c69cc574eff984_11.csv)  
 [shapefile link](https://opendata.arcgis.com/datasets/a35aa9249110472ba2c69cc574eff984_11.zip)  
 Vehicle traffic volumes for arterial streets in Seattle based on spot studies that have been adjusted for seasonal variation. There are also datasets for earlier years: 2017, 2016, ..., 2007.   
 
-#### [Traffic Signals](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-signals)  
+#### [Seattle Traffic Signals](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-signals)  
 About 1,100 records of traffic signal locations within the City of Seattle.  A traffic signal controls the movement of vehicles, pedestrians and bicyclists, minimizes conflicts, and optimizes the flow of traffic throughout the street network. Available as CSV file or shapefile.   
 
 #### [Seattle Street Signs](http://data-seattlecitygis.opendata.arcgis.com/datasets/street-signs) 
@@ -77,20 +88,20 @@ About 1,100 records of traffic signal locations within the City of Seattle.  A t
 [shapefile link](https://opendata.arcgis.com/datasets/411a96b39c834a2380a256b8afa5003b_0.zip)  
 Includes detailed information (sign type, text, color, when installed, when removed, & etc.) and locations of about 193,945 signs installed and maintained by the Seattle Department of Transportation within the public right of way. Includes signs for vehicles, bicycles, and pedestrians. See [attribute information](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Street_Signs_OD.pdf)   
 
-#### [Traffic Circle Locations](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-circles)
+#### [Seattle Traffic Circle Locations](http://data-seattlecitygis.opendata.arcgis.com/datasets/traffic-circles)
 About 1,066 records of traffic circles, raised islands constructed at intersections of residential streets. Traffic circles provide separation of oncoming vehicles and cause motorists to decrease speed. The layer is limited to non-arterial neighborhood traffic circles and does not include arterial or non-arterial medians or islands. Available as CSV file or shapefile.  
 
-#### [Marked Crosswalks](http://data-seattlecitygis.opendata.arcgis.com/datasets/marked-crosswalks) 
+#### [Seattle Marked Crosswalks](http://data-seattlecitygis.opendata.arcgis.com/datasets/marked-crosswalks) 
 About 5,700 records including the location and attributes of marked crosswalks in the City of Seattle for cartographic, analysis and tracking purposes. Available as CSV file or shapefile.  
 
-#### [Curb Ramps](http://data-seattlecitygis.opendata.arcgis.com/datasets/curb-ramps) 
+#### [Seattle Curb Ramps](http://data-seattlecitygis.opendata.arcgis.com/datasets/curb-ramps) 
 About 41,500 records including the location and attributes of Curb Ramps. Curb ramps provide access to the sidewalk system at street crossings and are usually located at intersections. Curb ramps may also be located mid-block. Available as CSV file or shapefile.    
 
-#### [Existing Bicycle Facilities](http://data-seattlecitygis.opendata.arcgis.com/datasets/existing-bike-facilities)
+#### [Seattle Existing Bicycle Facilities](http://data-seattlecitygis.opendata.arcgis.com/datasets/existing-bike-facilities)
 [shapefile link](https://opendata.arcgis.com/datasets/f4f509fa13504fb7957cef168fad74f0_1.zip)  
 Bicycle-related street and off-street (trail) improvements which consist of markings and hardscape that are intended to improve the movement of bicycles through the city. Existing facilities include all infrastructure currently on the ground and vary from dedicated off-street trails to shared roadway markings (sharrows). See [attribute information](https://www.seattle.gov/Documents/Departments/SDOT/GIS/Existing_Bike_Facilities_OD.pdf)  
 
-#### [Pronto Cycle Share Trip Data](https://data.seattle.gov/Community/Pronto-Cycle-Share-Trip-Data/tw7j-dfaw) 
+#### [Pronto Cycle Share Trip Data in Seattle](https://data.seattle.gov/Community/Pronto-Cycle-Share-Trip-Data/tw7j-dfaw) 
 About 275,000 records of bike trips from 10/13/2014 to 3/31/2017  
 ```
 1) STATION INFORMATION  
@@ -121,11 +132,15 @@ FILE = "2017-03_trip_data.csv".
 - birthyear: birth year of rider
 ```  
 
+#### Washington State Collision Data
+To get individual records of crash/collision events, the Washington State Dept. of Transportation (WSDOT) requires you to submit a public records request. [About Crash Data Requests](https://www.wsdot.wa.gov/mapsdata/crash/crashdatarequest.htm) [WSDOT Request Site](https://wsdot.mycusthelp.com/WEBAPP/_rs/supporthome.aspx)
+
+
 ## Related Data
 
 This section includes weather, location and demographic information, or anything else potentially useful for machine learning or data visualization.  
 
-#### [Road Weather Information Stations](https://data.seattle.gov/Public-Safety/Road-Weather-Information-Stations/egc4-d24i) 
+#### [Seattle Road Weather Information Stations](https://data.seattle.gov/Public-Safety/Road-Weather-Information-Stations/egc4-d24i) 
 About 869,000 records from sensor stations placed on bridges and surface streets within city limits. Each station has a temperature sensor that measures the temperature of the street surface and a sensor that measures the ambient air temperature at the station each second. Those values are averaged into temperature readings that are recorded by the station every minute. The dataset is updated every hour with new data.  
 __Note__: the description states that "Only 2 days of data is stored in the dataset," but there are some records from 2019... 
 ```
@@ -171,6 +186,10 @@ This is not an attempt to identify neighborhood boundaries as defined by neighbo
 [Shapefile](https://opendata.arcgis.com/datasets/648c2d358afb48b3b95130a5a95405be_0.zip)  
 City of Seattle municipal boundaries. Includes northerly and southerly boundaries for the city. The easterly and westerly boundaries of the city are defined by waterbodies.  
 
+#### [Washington State City Limits](http://gisdata-wsdot.opendata.arcgis.com/datasets/wsdot-city-limits)
+[shapefile link](https://opendata.arcgis.com/datasets/0b12f000a66f4d75a43ea3ac4ead01dc_1.zip)  
+Polygons depict the boundaries of Washington State's incorporated municipalities, as recorded by the Washington State Office of Financial Management. Attributes include city names as provided by the Washington State Office of Financial Management, and Federal Information Processing Standard codes(FIPS) as provided by the National Institute of Standards and Technology. The Washington State Office of Financial Management provided FIPS codes for cities incorporated after the National Institute of Standards and Technology's FIPS code publication date. GNIS (Geographic Name Information System) codes provided by the Washington State Department of Revenue have been included for this quarter.   
+
 #### [Seattle ACS 5-year 2013-2017 for Neighborhoods](http://data-seattlecitygis.opendata.arcgis.com/datasets/00f231c5a5084d079fcbf7ba9ad2e37e_0?ge) 
 
 [GeoJSON link](https://opendata.arcgis.com/datasets/00f231c5a5084d079fcbf7ba9ad2e37e_0.geojson)  
@@ -192,7 +211,7 @@ Community Reporting Area boundaries with data from the American Community Survey
 
 When downloading the data, please select "GDB Download" under "Additional Resources" to preserve long field names and attachments.  The associated file geodatabase contains a separate feature class for three levels of neighborhood geography - council districts, community reporting areas, and urban village demographic areas that includes these 50+ attributes.  
 
-#### [Common Place Names (CPN)](http://data-seattlecitygis.opendata.arcgis.com/datasets/common-place-names-cpn)
+#### [Seattle Common Place Names (CPN)](http://data-seattlecitygis.opendata.arcgis.com/datasets/common-place-names-cpn)
 [shapefile link](https://opendata.arcgis.com/datasets/9505df938d124cb6b0b66640dcd24095_0.zip)  
 About 20,321 point feature class records showing common or generic place names and corresponding locations.  
 Example records:  
