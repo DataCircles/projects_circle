@@ -39,7 +39,7 @@ __[Machine Learning Team 3 Repository](https://github.com/DataCircles/traffic_co
 - __Seattle Street Data__ from the SDOT, see the [data description](https://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-streets?geometry=-123.455%2C47.447%2C-121.200%2C47.771) ([csv data](https://opendata.arcgis.com/datasets/383027d103f042499693da22d72d10e3_0.csv))  
 - __Neighborhood Census Data__ from the American Community Survey, 5-year Series 2013-2017, the data was aggregated by neighborhood (aka Community Reporting Area boundaries) see the [data description](http://data-seattlecitygis.opendata.arcgis.com/datasets/00f231c5a5084d079fcbf7ba9ad2e37e_0) ([csv data and spatial files](https://data.seattle.gov/Land-Base/A-Community-Reporting-Areas-Profile-ACS-5-year-201/8x5n-chs7))  
 
-## Project Tasks and Milestones
+## Initial Project Tasks and Milestones
 
 ### Week 0 (aka week of Project Kickoff)  
 #### Tasks
@@ -75,7 +75,4 @@ c. what additional data is needed to answer the business problem(s)
 1. Describe the project's minimum viable result and the goal result.  
 2. Select a team representative to deliver a team progress report at the standup meeting. Note, please choose a new person each week so everyone has a chance to present.  
 
-<br>
-Additional information will be provided shortly.   
-
-
+__Check your team's Slack channel for additional goals and deadlines.__  
