@@ -35,10 +35,11 @@ __[Machine Learning Team 3 Repository](https://github.com/DataCircles/traffic_co
  
 ### Initial Datasets
 
-- Traffic collision data from the Seattle Transportation Dept. (SDOT), see [data description](https://data-seattlecitygis.opendata.arcgis.com/datasets/collisions) ([csv data](https://opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec63a0022ab_0.csv))  
-- Seattle street data from the SDOT, see [data description](https://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-streets?geometry=-123.455%2C47.447%2C-121.200%2C47.771) ([csv data](https://opendata.arcgis.com/datasets/383027d103f042499693da22d72d10e3_0.csv))  
+- __Traffic Collision Data__ from the Seattle Transportation Dept. (SDOT), see the [data description](https://data-seattlecitygis.opendata.arcgis.com/datasets/collisions) ([csv data](https://opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec63a0022ab_0.csv))  
+- __Seattle Street Data__ from the SDOT, see the [data description](https://data-seattlecitygis.opendata.arcgis.com/datasets/seattle-streets?geometry=-123.455%2C47.447%2C-121.200%2C47.771) ([csv data](https://opendata.arcgis.com/datasets/383027d103f042499693da22d72d10e3_0.csv))  
+- __Neighborhood Census Data__ from the American Community Survey, 5-year Series 2013-2017, the data was aggregated by neighborhood (aka Community Reporting Area boundaries) see the [data description](http://data-seattlecitygis.opendata.arcgis.com/datasets/00f231c5a5084d079fcbf7ba9ad2e37e_0) ([csv data and spatial files](https://data.seattle.gov/Land-Base/A-Community-Reporting-Areas-Profile-ACS-5-year-201/8x5n-chs7))  
 
-## Project Tasks and Milestones
+## Initial Project Tasks and Milestones
 
 ### Week 0 (aka week of Project Kickoff)  
 #### Tasks
@@ -59,12 +60,19 @@ d. how to divide up the work, e.g. assign team roles, work independently then co
 a. the structure and statistics of the raw data  
 b. how the data can help answer the business problem(s)  
 c. what additional data is needed to answer the business problem(s)  
-2. Locate the additional data
+2. Locate the additional data  
+2. Focus on honing your "business understanding," essentially what the problem is and who your audience is.  
+3. Decide on the final key questions you want to answer.  
 #### Milestone(s)
 1. Deliver the data report. The data report should be in each team's repository by 6 p.m. on Thursday, July 23.  
 2. Select a team representative to deliver a team progress report at the Thursday standup meeting. Note, please choose a new person each week so everyone has a chance to present.  
 
-<br>
-Additional information will be provided shortly.   
+### Week 2
+#### Tasks
+1. Decide as a team what are the most important tasks. Perhaps, it's cleaning and formatting the dataset or producing an exploratory data analysis report.  
+2. Discuss what the essential tasks are to complete a minimum viable result, versus the goal or ideal results. The goal is to efficiently make progress on the essential tasks.    
+#### Milestone(s)
+1. Describe the project's minimum viable result and the goal result.  
+2. Select a team representative to deliver a team progress report at the standup meeting. Note, please choose a new person each week so everyone has a chance to present.  
 
-
+__Check your team's Slack channel for additional goals and deadlines.__  
