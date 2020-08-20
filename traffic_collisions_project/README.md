@@ -2,6 +2,25 @@
 
 This six week project analyzes the Seattle area traffic collision data collected by the Seattle Dept. of Transportation (SDOT) over the period, 2004 - 2020.  
 
+## About the final presentations
+
+Presentations will be online during the week of Sept. 14, vote in the Slack poll to determine the day  
+
+Presentations are open to the public, feel free to invite any colleagues, friends, or family  
+
+Presentations will be approximately 15 minutes long with 5 minutes for questions  
+
+Each team repository should have a readme page that describes:
+- the team members,
+- the questions or issues the team focused on,  
+- the intended audience, 
+- the data that was ultimately used, and 
+- the project process.  
+
+The readme page should have links to any final presentation slides or visualization pages.  
+
+## About the project
+
 This repository contains general project documentation, [workshop materials](https://github.com/DataCircles/projects_circle/tree/master/traffic_collisions_project/workshop_materials), and other resources for the teams working on the Traffic Collisions Project. The teams focus on different business questions and will deliver different data science products. Each team falls under one of two tracks:  
 
 __1. Data Visualization Emphasis Track__  
@@ -15,7 +34,7 @@ Output 1. Classify and label collisions based on degree of danger, decide how to
 Output 2. Predict the danger level of each intersection  
 Output 3. Recommend changes to improve dangerous intersections based on similarity metrics  
 
-Each team will have their own GitHub repository within the projects_circle repository:  
+#### Project teams:  
 
 __[Data Visualization Team Repository](https://github.com/DataCircles/traffic_collisions_viz_team)__  
 
