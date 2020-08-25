@@ -1,23 +1,29 @@
 # Traffic Collisions Project
 
-This six week project analyzes the Seattle area traffic collision data collected by the Seattle Dept. of Transportation (SDOT) over the period, 2004 - 2020.  
+This six week project analyzes the Seattle area traffic collision data collected by the Seattle Dept. of Transportation (SDOT) over the years, 2004 - 2020.  
 
 ## About the final presentations
 
-Presentations will be online during the week of Sept. 14, vote in the Slack poll to determine the day  
+The virtual presentations will be during the week of Sept. 14, vote in the Slack poll to determine the day.  
 
-Presentations are open to the public, feel free to invite any colleagues, friends, or family  
+The presentations are open to the public, feel free to invite any colleagues, friends, or family.  
 
-Presentations will be approximately 15 minutes long with 5 minutes for questions  
+The presentations will be approximately 15 minutes long with 5 minutes for questions.  
 
-Each team repository should have a readme page that describes:
+See Slack for additional information.  
+
+## About the final product
+
+This [example github repository](https://github.com/jfear/example_project) illustrates one way to organize your repository.  
+
+At a minimum, each team repository should have a readme page that describes:
 - the team members,
 - the questions or issues the team focused on,  
 - the intended audience, 
-- the data that was ultimately used, and 
+- the data (where the data came from, what it looked like, and links to data source), and 
 - the project process.  
 
-The readme page should have links to any final presentation slides or visualization pages.  
+The readme page should also have links to any final presentation slides or visualization pages.  
 
 ## About the project
 
@@ -95,3 +101,16 @@ c. what additional data is needed to answer the business problem(s)
 2. Select a team representative to deliver a team progress report at the standup meeting. Note, please choose a new person each week so everyone has a chance to present.  
 
 __Check your team's Slack channel for additional goals and deadlines.__  
+
+## Best practices for organizing data science projects
+
+1. Use the same structure and names across projects
+2. Separate original data, generated data, and scripts
+3. Use workflows to orchestrate
+4. Split out configuration for consistency
+5. Modularize reusable code
+6. Use a style guide and linters
+7. Use containers and environments
+8. Document as you go: note how to do particular tasks, note the decisions that you make and why, and _etc._  
+
+List from [organizing_data_science_projects](https://cbiit.github.io/p2p-datasci/2019-12-12-organizing_data_science_projects/)  
