@@ -7,4 +7,4 @@ The [kickoff event](https://www.meetup.com/Seattle-WiDS-Meetup/events/275618975/
 We'll meet every Wednesday evening to answer questions and check in with the teams, link to [Meetup week 1](https://www.meetup.com/Seattle-WiDS-Meetup/events/knzmdsycccbkc/).  
 
 #### Next benchmarks
-For Wednesday, February 3rd -- have a notebook with your initial exploratory data analysis (EDA) and preliminary training and testing data sets. Be prepared to describe an initial insight you discovered during your EDA.  
+For Wednesday, February 3rd -- have a notebook with your initial exploratory data analysis (EDA) and preliminary training and testing data sets. Be prepared to describe an interesting insight you discovered during your EDA.  
